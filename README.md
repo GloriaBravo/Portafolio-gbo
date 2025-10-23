@@ -156,6 +156,7 @@ El portafolio está optimizado para:
    - `triqui-screenshot.png` - Para el juego del triqui
    - `market-go-screenshot.png` - Para Market Go
    - `profile-avatar.jpg` - Tu foto de perfil (300x300px recomendado)
+   - `logo.png` - Logo para el header (40x40px, formato circular recomendado)
 
 ### Subir imágenes:
 
