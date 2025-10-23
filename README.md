@@ -1,6 +1,6 @@
-# Portafolio de Desarrollador Web
+# Portafolio de Gloria Bravo - Desarrolladora Web
 
-Un portafolio moderno y responsivo creado con HTML, CSS y JavaScript puro para mostrar tus proyectos y habilidades como desarrollador web.
+Un portafolio moderno y responsivo creado con HTML, CSS y JavaScript puro para mostrar mis proyectos y habilidades como desarrolladora web full stack.
 
 ## 🚀 Características
 
@@ -137,6 +137,64 @@ El portafolio está optimizado para:
    }
    ```
 
+## 📸 Agregar Imágenes a tu Portafolio
+
+### Cómo tomar screenshots de tus proyectos:
+
+1. **Abrir tu proyecto** en el navegador
+2. **Presionar F12** o click derecho → "Inspeccionar"
+3. **Cambiar a vista móvil** (ícono de teléfono/tablet)
+4. **Tomar screenshot**:
+   - Chrome: Ctrl+Shift+P → "Capture full size screenshot"
+   - Firefox: Click derecho en página → "Tomar screenshot"
+   - O usa herramientas como Lightshot, Snip & Sketch
+
+### Preparar las imágenes:
+
+1. **Crear carpeta `images/`** en tu proyecto
+2. **Guardar screenshots** con nombres descriptivos:
+   - `triqui-screenshot.png` - Para el juego del triqui
+   - `market-go-screenshot.png` - Para Market Go
+   - `profile-avatar.jpg` - Tu foto de perfil (300x300px recomendado)
+
+### Subir imágenes:
+
+```bash
+# Agregar las imágenes
+git add images/
+git commit -m "Add project screenshots and profile image"
+git push
+```
+
+### Mejores prácticas para imágenes:
+
+- **Formato**: PNG para screenshots, JPG para fotos
+- **Tamaño**: Máximo 500KB por imagen
+- **Resolución**: 400x200px para proyectos, 300x300px para perfil
+- **Compresión**: Usa herramientas como TinyPNG o ImageOptim
+
+## 🚀 Mejoras Adicionales
+
+### Animaciones mejoradas:
+- Agregar efectos de parallax
+- Transiciones más suaves
+- Animaciones al hacer scroll
+
+### Funcionalidades extras:
+- Modo oscuro/claro
+- Filtro de proyectos por tecnología
+- Testimonios o reseñas
+- Blog integrado
+
+### SEO y rendimiento:
+- Meta tags específicos
+- Open Graph para redes sociales
+- Lazy loading de imágenes
+- Minificación de código
+
+---
+
+¡Tu portafolio está listo para impresionar a futuros empleadores! 🚀
 3. Agrega el enlace en la navegación.
 
 ### JavaScript Personalizado
