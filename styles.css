@@ -50,10 +50,12 @@ body {
 
 .logo-img {
     width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    object-fit: cover;
+    height: 32px;
+    border-radius: 4px;
+    object-fit: contain;
     border: 2px solid #3498db;
+    background: white;
+    padding: 2px;
 }
 
 .nav-logo span {
